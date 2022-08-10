@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'PFStardust';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} /* 좋은 도트 폰트 잘 쓰겠습니다*/
+
+*
+{
+    font-family: 'PFStardust';
+}
