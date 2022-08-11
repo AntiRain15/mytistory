@@ -7,13 +7,13 @@
       <![CDATA[발할라 사이버 펑크처럼 만든 티스토리 스킨]]>
     </description>
     <license>
-      <![CDATA[자유롭게 수정이 가능하며, 저작권 표시하에 재배포 가능합니다.]]>
+      <![CDATA[수정 가능, 재배포 가능 (저작권 표시, 원작자 표시 필수)]]>
     </license>
   </information>
   <author>
     <name>에러리스</name>
     <homepage>http://testbuild.tistory.com</homepage>
-    <email>tistoryblog@daum.net</email>
+    <email>dailybreak3@gmail.com</email>
   </author>
   <default>
     <recentEntries>5</recentEntries>
